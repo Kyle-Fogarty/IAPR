@@ -1,0 +1,19 @@
+name: attn-prior
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - tqdm
+  - pip:
+    - torch==2.1.0
+    - torchvision==0.16.0
+    - pytorch3d
+    - trimesh
+    - scikit-image
+    - faiss-gpu          # use faiss-cpu if no GPU is available
