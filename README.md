@@ -1,6 +1,6 @@
 # Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction
 
-**[Project Page](https://fogarty.dev/attn-prior) | [Paper (arXiv 2511.04864)](https://arxiv.org/abs/2511.04864)**
+**[Project Page](https://attnprior.netlify.app/) | [Paper (arXiv 2511.04864)](https://arxiv.org/abs/2511.04864)**
 
 > Kyle Fogarty, Chenyue Cai, Jing Yang, Zhilin Guo, Cengiz Oztireli
 > University of Cambridge · Princeton University · 3DV 2025
